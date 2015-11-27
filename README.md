@@ -5,7 +5,7 @@ Create a new unity project and navigate to it's directory in a git enabled comma
 
 ```
 git init
-git remote add -t \* -f origin git@github.com:blewert/bangor-benchmark.git
+git remote add -t \* -f origin git@github.com:Hullabaloo94/BBG.git
 git checkout master
 
 ```
